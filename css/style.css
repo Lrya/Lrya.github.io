@@ -454,7 +454,7 @@ a.contact:hover {
 /*-- banner --*/
 
 .main-content {
-    background: url(../images/banner.jpg) no-repeat center;
+    background: url(http://image-huomy.test.upcdn.net/page/banner.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -465,7 +465,7 @@ a.contact:hover {
 }
 
 .main-content.inner {
-    background: url(../images/banner.jpg) no-repeat;
+    background: url(http://image-huomy.test.upcdn.net/page/banner.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
